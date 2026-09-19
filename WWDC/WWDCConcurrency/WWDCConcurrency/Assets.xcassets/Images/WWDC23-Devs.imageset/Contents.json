@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "WWDC23-Devs.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

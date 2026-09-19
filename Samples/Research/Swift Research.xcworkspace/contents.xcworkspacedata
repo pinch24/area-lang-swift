@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Closure"
+      name = "Closure">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP2_1.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Capturing Value"
+      name = "Capturing Value">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP2_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP2_2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP3_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP4_1.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Weak, Unowned"
+      name = "Weak, Unowned">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:XP1_3.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:Async"
+      name = "Async">
+      <FileRef
+         location = "group:AsyncAwait - 1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:AsyncAwait - 2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:AsyncAwait - 3.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Task.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Monard">
+   </Group>
+</Workspace>
